@@ -1,0 +1,46 @@
+{
+    "name": "Blogger",
+    "description": "<p>Blogger is a blog-publishing service that allows multi-user blogs with time-stamped entries. It was developed by Pyra Labs, which was bought by Google in 2003. Generally, the blogs are hosted by Google at a subdomain of blogspot.com. Blogs can also be hosted in the registered custom domain of the blogger (like www.example.com).<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/blogger-icon.png",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "cms",
+        "content",
+        "general data",
+        "have api",
+        "pedestal",
+        "relative data"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/blogger\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blogger.googleblog.com\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.blogger.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/buzz.blogger.com\/atom.xml"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developers.google.com\/blogger\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Blogger"
+        },
+        {
+            "type": "Getting Started",
+            "url": "https:\/\/developers.google.com\/blogger\/docs\/3.0\/getting_started"
+        }
+    ]
+}

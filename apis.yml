@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://developers.google.com/blogger/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/blogger-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/blogger-domain-security.yml
   - type: Website
     url: https://developers.google.com/blogger/
   - type: PublicAPIsListing

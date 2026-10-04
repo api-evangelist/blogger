@@ -39,7 +39,6 @@ apis:
   - name: Blogger
     description: "The Blogger APIs allows client applications to view and update Blogger content"
     humanURL: https://developers.google.com/blogger/
-    baseURL: https://developers.google.com/blogger/
     tags:
       - Social
     properties:
